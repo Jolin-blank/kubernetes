@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64
+FROM k8s.gcr.io/google_containers/kubernetes-apiserver-amd64
 MAINTAINER jolin
